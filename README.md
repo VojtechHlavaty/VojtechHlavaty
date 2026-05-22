@@ -5,4 +5,4 @@
 Working exclusively with Python :snake: .
 
 
-:e-mail: hlavavo7@fel.cvut.cz / v.hlavaty02@gmail.com
+:e-mail: vojtech.hlavaty@cvut.cz / v.hlavaty02@gmail.com
